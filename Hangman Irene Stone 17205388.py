@@ -10,9 +10,6 @@
 # ## Student Number: 17205388
 # 
 # ## 28th Feb 2018
-# 
-
-# In[1]:
 
 
 def hangman():
