@@ -8,10 +8,6 @@ fin = open("sentences.txt",encoding="utf8")
 lines = fin.readlines()
 #print (lines)                                          #prints out the list lines
 
-
-# In[ ]:
-
-
 from textblob import TextBlob as tb                     #imports textblob, a python library for processing textual data,  as tb
 from textblob.exceptions import NotTranslated           #imports exception to recognise sentences that are not translated
 from difflib import SequenceMatcher                     #imports function sequence matcher
