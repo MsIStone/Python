@@ -1,8 +1,6 @@
 
 # coding: utf-8
 
-# In[1]:
-
 
 fin = open("sentences.txt",encoding="utf8") 
 #fin = open("sentences3.txt")                           #smaller text file available for testing
