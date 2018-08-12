@@ -1,13 +1,4 @@
-# Edited on 12th August. testing github
-# coding: utf-8
-
-# ## COMP47560 
-# ## Coding & Software Engineering
-# ## Assignment 1
-# ## Hangman
-
-# ## 28th Feb 2018
-
+# Edited on 12th August. Testing github
 
 def hangman():
     
