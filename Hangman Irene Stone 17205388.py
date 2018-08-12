@@ -1,14 +1,11 @@
-
+# Edited on 12th August. testing github
 # coding: utf-8
 
 # ## COMP47560 
 # ## Coding & Software Engineering
 # ## Assignment 1
 # ## Hangman
-# 
-# ## Irene Stone
-# ## Student Number: 17205388
-# 
+
 # ## 28th Feb 2018
 
 
@@ -20,7 +17,7 @@ def hangman():
     print ('*******Good luck********')
     print ('************************')
 
-    candidate_words = ['read', 'television', 'computer', 'laptop', 'school', 'grass', 'hospital', 'university', 'estate', 'movie', 'country', 'amazing', 'country']
+    candidate_words = ['fantastic', 'read', 'television', 'computer', 'laptop', 'school', 'grass', 'hospital', 'university', 'estate', 'movie', 'country', 'amazing', 'country']
  
     import random
     word = random.choice(candidate_words)
@@ -73,18 +70,9 @@ def hangman():
         print ("Try again, the word was......", word)
 
 
-# #Example of winning the game
-
-# In[ ]:
 
 
 hangman()
 
 
-# #Example of losing the game
-
-# In[ ]:
-
-
-hangman()
 
