@@ -1,0 +1,35 @@
+# Welcome to Sonic Pi v3.0.1
+play :C  #C is C4 DOH
+sleep 0.5
+play 60
+sleep 0.5
+play :D #D is D4 RAY
+sleep 0.5
+play 62
+sleep 0.5
+play :E #MI
+sleep 0.5
+play 64
+sleep 0.5
+play :F
+sleep 0.5
+play 65
+sleep 0.5
+play :G
+sleep 0.5
+play 67
+sleep 0.5
+play :A
+sleep 0.5
+play 69
+sleep 0.5
+play :B
+sleep 0.5
+play 71
+sleep 0.5
+play :C5
+sleep 0.5
+play 72
+sleep 0.5
+
+
