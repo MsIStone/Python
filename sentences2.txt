@@ -1,0 +1,6 @@
+1 This is a pencil.
+2 This is not a pencil.
+3 How are you?
+4 What's your name?
+5 It's very hot outside.
+6 It's very cold outside
